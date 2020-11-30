@@ -1,12 +1,12 @@
 // Assignment code here
 var generateBtn = document.querySelector("#generate");
 
-// 
+// Criteria Options
 var specialCharacters = [
   '@',
   '%',
   '+',
-  '\\',
+  '//',
   '/',
   "'",
   '!',
@@ -102,7 +102,7 @@ function passwordOptions() {
   if (passwordLength > 128) {
     alert("Password length must be between 8-128 characters.");
   }
-  
+  // Confirm criteria options 
   var hasSpecial = confirm("Do you want any Special Characters?")
 
   var hasNumbers = confirm("Do you want any Numaric Characters?")
@@ -111,6 +111,7 @@ function passwordOptions() {
 
   var hasUpper = confirm("Do you want any Upper Case Characters?")
 
+  // Confirm at least 1 criteria was chosen
   if (hasSpecial === false &&
     hasNumbers === false &&
     hasLower === false &&
@@ -130,7 +131,7 @@ function passwordOptions() {
   return passwordChoices;
 
 }
-
+// Randomize
 function getRandom(arr) {
   var randomIndex = Math.floor(Math.random() * arr.length);
   var randomElement = arr[randomIndex];
