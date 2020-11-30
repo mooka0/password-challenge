@@ -1,4 +1,4 @@
-# password-challenge
+## password-challenge
 
 GIVEN I need a new, secure password</br>
 WHEN I click the button to generate a password</br>
@@ -20,5 +20,5 @@ Home page: https://github.com/mooka0/password-challenge
 
 <img src="/Users/ak/Desktop/password-challenge/Develop/password-challenge/assets/images/Screen Shot 2020-11-29 at 8.17.45 PM.png">
 
-# Set Up
+## Set Up
 https://github.com/mooka0/password-challenge.git
