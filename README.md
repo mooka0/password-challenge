@@ -16,4 +16,6 @@ THEN a password is generated that matches the selected criteria</br>
 WHEN the password is generated</br>
 THEN the password is either displayed in an alert or written to the page</br>
 
-Home
+Home page: https://github.com/mooka0/password-challenge
+
+<img src="/Users/ak/Desktop/password-challenge/Develop/password-challenge/assets/images/Screen Shot 2020-11-29 at 8.17.45 PM.png">
