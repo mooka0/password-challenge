@@ -19,3 +19,6 @@ THEN the password is either displayed in an alert or written to the page</br>
 Home page: https://github.com/mooka0/password-challenge
 
 <img src="/Users/ak/Desktop/password-challenge/Develop/password-challenge/assets/images/Screen Shot 2020-11-29 at 8.17.45 PM.png">
+
+# Set Up
+https://github.com/mooka0/password-challenge.git
