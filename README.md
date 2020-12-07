@@ -1,4 +1,4 @@
-# password-challenge
+## password-challenge
 
 GIVEN I need a new, secure password</br>
 WHEN I click the button to generate a password</br>
@@ -18,7 +18,8 @@ THEN the password is either displayed in an alert or written to the page</br>
 
 Home page: https://github.com/mooka0/password-challenge
 
-<img src="/Users/ak/Desktop/password-challenge/Develop/password-challenge/assets/images/Screen Shot 2020-11-29 at 8.17.45 PM.png">
+![Screen Shot 2020-11-29 at 8 17 45 PM](https://user-images.githubusercontent.com/66394427/100568866-38cc1180-3281-11eb-84df-cde8db70e6eb.png)
 
-# Set Up
+
+## Set Up
 https://github.com/mooka0/password-challenge.git
